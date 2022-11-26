@@ -1,0 +1,14 @@
+artifacts
+coverage
+node_modules
+yarn.lock
+
+
+*.pem
+test-*-payload.json
+yarn-error.log
+.serverless
+npm-debug.log
+.idea
+
+.vercel
